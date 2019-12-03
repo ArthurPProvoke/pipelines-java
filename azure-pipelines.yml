@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-latesttest3'
+  vmImage: 'ubuntu-latest'
 
 steps:
 - script: echo Hello, BRO!
